@@ -1,1 +1,3 @@
 https://wastewatertreatment.streamlit.app/
+https://distillaitoncolumn.streamlit.app/
+liquid liquid extraction: https://homework3-ze6t8crlajfitpe2u8scfa.streamlit.app/
